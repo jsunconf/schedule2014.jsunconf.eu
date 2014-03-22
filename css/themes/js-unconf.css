@@ -1,0 +1,23 @@
+h1 {
+  background-color: #92137f;
+}
+
+#schedule-tabs > li.active-tab {
+  background-color: #92137f;
+}
+
+h2 {
+  border-bottom: 4px solid #92137f;
+}
+
+h3 {
+  color: #444;
+}
+
+.talk.starred h3::before {
+    background-color: #92137f;
+}
+
+.talk.starred .star-button {
+    background-color: #92137f;
+}
