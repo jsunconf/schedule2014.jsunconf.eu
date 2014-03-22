@@ -1,6 +1,6 @@
 {
-	"conference": "ACME Conference Schedule 2013",
-	"theme": "hot-pink",
+	"conference": "JS Unconf 2014",
+	"theme": "js-unconf",
 	"schedule_loader": {
 		"type": "json",
 		"url": "data/schedule.json"
