@@ -9,7 +9,7 @@ Refresh.prototype.registerPlugin = function() {
 		var element = document.createElement('li');
 		element.setAttribute('class', 'refresh-tab');
 		element.innerHTML = '<span class="refresh-icon"></span>';
-		//document.getElementById('schedule-tabs').appendChild(element);
+		document.getElementById('schedule-tabs').appendChild(element);
 
 		self.view_helper.applyForSelector('refresh-tab', function(element) {
 			element.addEventListener('click', function() {
