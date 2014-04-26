@@ -52,6 +52,12 @@
       },
       "talks": [
         {
+          "speaker": "Christoph Burgdorf",
+          "topic": "The secrets of the git ninjas",
+          "location": "H1",
+          "description": ""
+        },
+        {
           "speaker": "Manuel Rülke",
           "topic": "Math Fun: Procedural Music with Java Script",
           "location": "H2",
@@ -61,12 +67,6 @@
           "speaker": "Jelle Akkerman",
           "topic": "Your first steps with Clojurescript and Om",
           "location": "H3",
-          "description": ""
-        },
-        {
-          "speaker": "Christoph Burgdorf",
-          "topic": "The secrets of the git ninjas",
-          "location": "H4",
           "description": ""
         },
         {
@@ -100,6 +100,12 @@
       },
       "talks": [
         {
+          "speaker": "Robin Böhm",
+          "topic": "Enterprise AngularJS",
+          "location": "H1",
+          "description": ""
+        },
+        {
           "speaker": "Oliver Zeigermann",
           "topic": "Games from the 80ies in less than 100 lines of code",
           "location": "H2",
@@ -109,12 +115,6 @@
           "speaker": "Bastian Hofmann",
           "topic": "Structuring a large code base with components",
           "location": "H3",
-          "description": ""
-        },
-        {
-          "speaker": "Robin Böhm",
-          "topic": "Enterprise AngularJS",
-          "location": "H4",
           "description": ""
         },
         {
@@ -132,26 +132,26 @@
       },
       "talks": [
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS2",
+          "speaker": "Sebastian Kippe",
+          "topic": "Stop storing your users' data!",
+          "location": "H1",
           "description": ""
         },
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS3",
+          "speaker": "Christoph Burgmer",
+          "topic": "Writing a clean, zero-dependency single page app",
+          "location": "H2",
           "description": ""
         },
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS4",
+          "speaker": "Ola Gasidlo & Robin Böhm",
+          "topic": "Hoodie & AngularJS - The perfect couple for simple and fast Prototyping!",
+          "location": "H3",
           "description": ""
         },
         {
-          "speaker": "tba",
-          "topic": "tba",
+          "speaker": "Jan Lelis",
+          "topic": "Intro to WebRTC",
           "location": "HS5",
           "description": ""
         }
@@ -164,27 +164,27 @@
       },
       "talks": [
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS2",
+          "speaker": "tMichele Guido",
+          "topic": "It takes a village to make a programmer",
+          "location": "H1",
           "description": ""
         },
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS3",
+          "speaker": "Oliver Zeigermann",
+          "topic": "Introduction to react.js",
+          "location": "H2",
           "description": ""
         },
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS4",
+          "speaker": "Damien Klinnert",
+          "topic": "Angular performance tuning for large apps",
+          "location": "H3",
           "description": ""
         },
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS5",
+          "speaker": "Jan Krutisch",
+          "topic": "Decentrialise ALL THE THINGS!!!!!",
+          "location": "H5",
           "description": ""
         }
       ]
