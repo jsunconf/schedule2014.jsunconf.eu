@@ -100,27 +100,27 @@
       },
       "talks": [
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS2",
+          "speaker": "Oliver Zeigermann",
+          "topic": "Games from the 80ies in less than 100 lines of code",
+          "location": "H2",
           "description": ""
         },
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS3",
+          "speaker": "Bastian Hofmann",
+          "topic": "Structuring a large code base with components",
+          "location": "H3",
           "description": ""
         },
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS4",
+          "speaker": "Robin Böhm",
+          "topic": "Enterprise AngularJS",
+          "location": "H4",
           "description": ""
         },
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS5",
+          "speaker": "Frederic Hemberger",
+          "topic": "NodeJS in production",
+          "location": "H5",
           "description": ""
         }
       ]
