@@ -152,7 +152,7 @@
         {
           "speaker": "Jan Lelis",
           "topic": "Intro to WebRTC",
-          "location": "HS5",
+          "location": "H5",
           "description": ""
         }
       ]
@@ -164,7 +164,7 @@
       },
       "talks": [
         {
-          "speaker": "tMichele Guido",
+          "speaker": "Michele Guido",
           "topic": "It takes a village to make a programmer",
           "location": "H1",
           "description": ""
@@ -183,7 +183,7 @@
         },
         {
           "speaker": "Jan Krutisch",
-          "topic": "Decentrialise ALL THE THINGS!!!!!",
+          "topic": "Decentralize ALL THE THINGS!!!!!",
           "location": "H5",
           "description": ""
         }
