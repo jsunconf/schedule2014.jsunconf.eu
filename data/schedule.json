@@ -52,27 +52,27 @@
       },
       "talks": [
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS2",
+          "speaker": "Manuel Rülke",
+          "topic": "Math Fun: Procedural Music with Java Script",
+          "location": "H2",
           "description": ""
         },
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS3",
+          "speaker": "Jelle Akkerman",
+          "topic": "Your first steps with Clojurescript and Om",
+          "location": "H3",
           "description": ""
         },
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS4",
+          "speaker": "Christoph Burgdorf",
+          "topic": "The secrets of the git ninjas",
+          "location": "H4",
           "description": ""
         },
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS5",
+          "speaker": "Christian Otto",
+          "topic": "Charting with D3.js",
+          "location": "H5",
           "description": ""
         }
       ]
