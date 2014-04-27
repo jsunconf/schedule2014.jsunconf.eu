@@ -275,28 +275,28 @@
       },
       "talks": [
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS2",
+          "speaker": "Moritz Spindelhirn",
+          "topic": "Building Desktop Applications with node.js and node-webkit",
+          "location": "H1",
+          "description": ""
+        },
+        {
+          "speaker": "molily",
+          "topic": "Testing CSS support with JavaScript",
+          "location": "H2",
+          "description": ""
+        },
+        {
+          "speaker": "Pascal Precht",
+          "topic": "i18n with angular-translate",
+          "location": "H3",
           "description": ""
         },
         {
           "speaker": "tba",
-          "topic": "tba",
-          "location": "HS3",
-          "description": ""
-        },
-        {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS4",
-          "description": ""
-        },
-        {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS5",
-          "description": ""
+          "topic": "Digital self defense - Mitigate clickjacking and XSS attacks with HTTP Headers",
+          "location": "H5",
+          "description": "Frederic Hemberger"
         }
       ]
     },
@@ -321,27 +321,27 @@
       },
       "talks": [
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS2",
+          "speaker": "Sebs",
+          "topic": "A violent introduction to nonviolent communication",
+          "location": "H1",
           "description": ""
         },
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS3",
+          "speaker": "Bastian Krol",
+          "topic": "Implementing Hypermedia APIs in JavaScript",
+          "location": "H2",
           "description": ""
         },
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS4",
+          "speaker": "@mrflix Felix",
+          "topic": "Animated UI changes",
+          "location": "H3",
           "description": ""
         },
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS5",
+          "speaker": "Jan van Thoor",
+          "topic": "Beyond the To-do List",
+          "location": "H5",
           "description": ""
         }
       ]
