@@ -243,27 +243,27 @@
       },
       "talks": [
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS2",
+          "speaker": "Anton Boritsky",
+          "topic": "Grunt vs. Gulp",
+          "location": "H1",
           "description": ""
         },
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS3",
+          "speaker": "Oliver Zeigermann",
+          "topic": "HTML enhanced for WebApps - Introduction to AngularJS",
+          "location": "H2",
           "description": ""
         },
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS4",
+          "speaker": "Felix Palmer",
+          "topic": "Rendering large terrains in WebGL",
+          "location": "H3",
           "description": ""
         },
         {
-          "speaker": "tba",
-          "topic": "tba",
-          "location": "HS5",
+          "speaker": "",
+          "topic": "Ask Amazon",
+          "location": "H5",
           "description": ""
         }
       ]
